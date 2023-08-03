@@ -1,7 +1,7 @@
 # Calculadora_Selectivitat
-Senzillament una calculadora per saber la teva nota de les proves PBAU.
+Senzillament una calculadora per saber la teva nota de les proves PBAU. MOLTA SORT!!
 
-Molta Sort, Nota de tall 8.182
+Nota de tall Grau en Enginyeria en Sistemes Audiovisuals UPF: 8.182
 
 
 
